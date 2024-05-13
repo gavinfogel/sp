@@ -41,3 +41,14 @@
 [32mINFO[0m:     [06-05-2024 23:41:31] Waiting for application startup.
 [32mINFO[0m:     [06-05-2024 23:41:31] Application startup complete.
 [32mINFO[0m:     [06-05-2024 23:41:31] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [07-05-2024 13:28:03] Shutting down
+[32mINFO[0m:     [07-05-2024 13:28:03] Waiting for application shutdown.
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component System
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component SegmentAPI
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component Posthog
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component SqliteDB
+[36mDEBUG[0m:    [07-05-2024 13:28:03] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [07-05-2024 13:28:03] Application shutdown complete.
+[32mINFO[0m:     [07-05-2024 13:28:03] Finished server process [[36m79860[0m]
