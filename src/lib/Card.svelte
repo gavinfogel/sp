@@ -1,14 +1,21 @@
 <script lang="ts">
-	let title: string;
-	let description: string;
-	let imgSrc: string;
-	let imgAlt: string;
+	export let title: string;
+	export let description: string;
+	export let imgSrc: string;
+	export let imgAlt: string;
+	export let url: string;
 </script>
 
-<div class="rounded w-full flex flex-row space-x-4">
-	<img src={imgSrc} alt={imgAlt} />
-	<div class="flex flex-col space-y-2">
-		<h1>{title}</h1>
-		<h2>{description}</h2>
+<a
+	class="rounded-lg w-full flex flex-row space-x-4 h-72 bg-neutral-700
+	bg-opacity-25 backdrop-blur-xl hover:scale-[102%] hover:-translate-y-2 transition-all"
+	href={`/narratives/${url}`}
+>
+	<img src={imgSrc} alt={imgAlt} class="rounded-l-lg" />
+	<div class="flex flex-col p-8 space-y-4">
+		<h1 class="text-3xl font-mona">{title}</h1>
+		<h2 class="text-xl">
+			{description}<span class="text-neutral-500 ml-2">Click to learn more</span>
+		</h2>
 	</div>
-</div>
+</a>

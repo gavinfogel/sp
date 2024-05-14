@@ -1,5 +1,12 @@
 <h1 class="text-5xl">References</h1>
-<div class="mt-2 text-neutral-300 text-sm">(In Harvard style citation format)</div>
+<div class="mt-2 text-neutral-300 text-sm">(Mostly in Harvard style citation format)</div>
+<div class="mt-4">
+	Special thanks to<a
+		target="_blank"
+		href="https://archaeology.cornell.edu/jacob-damm"
+		class="mx-1 underline text-blue-400 hover:text-blue-500 transition-all">Jacob Damm,</a
+	> Cornell ANTHR3040 professor, for his guidance on the project.
+</div>
 <ul class="flex flex-col space-y-8 text-xxl mt-24">
 	<li>
 		GORDON DOHERTY, AUTHOR. (n.d.). Death from the Waves - the Sea People. [online] Available at:
