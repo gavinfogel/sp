@@ -18,6 +18,48 @@
 		at: https://www.youtube.com/watch?v=q9jqwLYeVtk&ab_channel=ReligionForBreakfast [Accessed 1 May
 		2024].
 	</li>
+	<li>
+		Betancourt, P. 2000. 15. The Aegean and the Origin of the Sea Peoples. In: Oren, E. ed. The Sea
+		Peoples and Their World: A Reassessment. Philadelphia: University of Pennsylvania Press, pp.
+		297-304. https://doi.org/10.9783/9781934536438.297
+	</li>
+	<li>
+		O'Connor, D. 2000. 5. The Sea Peoples and the Egyptian Sources. In: Oren, E. ed. The Sea Peoples
+		and Their World: A Reassessment. Philadelphia: University of Pennsylvania Press, pp. 85-102.
+		https://doi.org/10.9783/9781934536438.85
+	</li>
+	<li>
+		Raffaele D’Amato and Salimbeti, A. (2015). Sea Peoples of the Bronze Age Mediterranean c.1400
+		BC–1000 BC. Bloomsbury Publishing.
+	</li>
+	<li>
+		Feldman, M., Master, D.M., Bianco, R.A., Burri, M., Stockhammer, P.W., Mittnik, A., Aja, A.J.,
+		Jeong, C. and Krause, J. (2019). Ancient DNA sheds light on the genetic origins of early Iron
+		Age Philistines. Science Advances, 5(7), p.eaax0061. doi:https://doi.org/10.1126/sciadv.aax0061.
+	</li>
+	<li>
+		'Sea Peoples' (2024). Wikipedia. Available at https://en.wikipedia.org/wiki/Sea_Peoples
+		(Accessed: 1 May 2024). (referred to generally in the context of the project)
+	</li>
+	<li>
+		Peet, T.E. (1934). Medinet Habu, Volume I: Earlier Historical Records of Ramses III; Volume II:
+		Later Historical Records of Ramses III. The Journal of Egyptian Archaeology, 20(1), pp.123–124.
+		doi:https://doi.org/10.1177/030751333402000132.
+	</li>
+	<li>
+		Cline, E.H. (2015). 1177 B.C. : the year civilization collapsed. Princeton: Princeton University
+		Press.
+	</li>
+	<li>
+		Drews, R. (2000). Medinet Habu: Oxcarts, Ships, and Migration Theories. Journal of Near Eastern
+		Studies, 59(3), pp.161–190. doi:https://doi.org/10.1086/468830.
+	</li>
+	<li>
+		Meiberg, L., 2013. Philistine lion-headed cups: Aegean or Anatolian?. In: A.E. Killebrew & G.
+		Lehmann, eds. The Philistines and Other “Sea Peoples” in Text and Archaeology. Society of
+		Biblical Literature, pp. 131-144. Available at: https://doi.org/10.2307/j.ctt46n483.12 [Accessed
+		14 May 2024].
+	</li>
 </ul>
 
 <div class="text-xl mt-24">

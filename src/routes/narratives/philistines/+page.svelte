@@ -1,6 +1,5 @@
 <script lang="ts">
 	import tweet from '../../../tweet.png';
-	import dna from '../../../descriptions/dna.png';
 </script>
 
 <h1 class="text-5xl mt-12 font-semibold font-mona">Philistine DNA and Land Claims</h1>
@@ -85,7 +84,7 @@ origin of the Philistines is in southern Europe."
 			class="text-blue-400 underline"
 			href="https://twitter.com/netanyahu/status/1147824702360100864?lang=en"
 			target="_blank">tweets about the Philistine DNA study</a
-		>, in a less misleading tweet.
+		>, in a slightly less misleading tweet.
 	</div>
 </div>
 
