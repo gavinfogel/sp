@@ -34,7 +34,7 @@
 	history characterized by migration and integration.
 </div>
 <div class="text-xl space-x-12 mt-12">
-	Unforunately, not everyone feels the same way when interpreting science and history. Namely,
+	Unfortunately, not everyone feels the same way when interpreting science and history. Namely,
 	recently, <a
 		class="text-blue-400 underline"
 		href="https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
